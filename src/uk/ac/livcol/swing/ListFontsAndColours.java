@@ -3,7 +3,7 @@
  * Author:      Andrew Laing
  * Email:       parisianconnections@gmail.com
  * Date:        08/02/2018
- * Description:
+ * Description: Combobox demonstration
  */
 
 package uk.ac.livcol.swing;
